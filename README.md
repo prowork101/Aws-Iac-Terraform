@@ -23,8 +23,9 @@ aws-iac-terraform/
 - Internet Gateway
 - Route Tables
 
+Markdown
 ## Architecture
-
+'''text
 Internet
 │
 ▼
@@ -41,6 +42,7 @@ EC2 Instance
 │
 ▼
 Security Group
+'''
 
 ## Project Outcome
 
