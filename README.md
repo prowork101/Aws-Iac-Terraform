@@ -23,7 +23,6 @@ aws-iac-terraform/
 - Internet Gateway
 - Route Tables
 
-
 ## Architecture
 
 Internet
