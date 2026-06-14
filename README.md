@@ -3,6 +3,19 @@
 ## Overview
 This project provisions AWS infrastructure using Terraform. It creates a VPC, public subnet, Internet Gateway, route table, security group, and EC2 instance.
 
+## Project Structure
+
+aws-iac-terraform/
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── README.md
+├── .gitignore
+│
+└── docs/
+    └── architecture.md
+
 ## Step 1: Create Project Folder
 Created a local project folder to store Terraform files.
 
