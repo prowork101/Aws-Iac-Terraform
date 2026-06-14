@@ -128,3 +128,20 @@ EC2 Instance
 • Configured security controls using AWS Security Groups.
 
 • Validated Infrastructure as Code deployment through Terraform plan and apply workflows.
+
+## Screenshots
+
+### VPC Created
+![VPC](screenshots/Vpc.jpg)
+
+### Security Group
+![Security Group](screenshots/Security%20Groups.jpg)
+
+### EC2 Instance
+![EC2](screenshots/Ec2.jpg)
+
+### Terraform State List
+![Terraform State](screenshots/Terraform%20-%20State%20List.jpg)
+
+### Terraform Apply
+![Terraform Apply](screenshots/Terraform%20-%20Apply.jpg)
