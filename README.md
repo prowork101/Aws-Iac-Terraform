@@ -25,7 +25,7 @@ aws-iac-terraform/
 
 Markdown
 ## Architecture
-'''text
+```text
 Internet
 │
 ▼
@@ -42,7 +42,7 @@ EC2 Instance
 │
 ▼
 Security Group
-'''
+```
 
 ## Project Outcome
 
