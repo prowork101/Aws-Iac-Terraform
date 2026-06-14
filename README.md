@@ -120,7 +120,11 @@ EC2 Instance
 ## Project Outcome
 
 • Successfully provisioned AWS infrastructure using Terraform.
+
 • Deployed a running EC2 instance within a custom VPC.
+
 • Implemented networking components including a public subnet, Internet Gateway, and route table.
+
 • Configured security controls using AWS Security Groups.
+
 • Validated Infrastructure as Code deployment through Terraform plan and apply workflows.
