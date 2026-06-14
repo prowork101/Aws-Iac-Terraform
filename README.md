@@ -116,7 +116,7 @@ Public Subnet
     │
     ▼
 EC2 Instance
-
+```
 ## Project Outcome
 
 • Successfully provisioned AWS infrastructure using Terraform.
@@ -129,12 +129,3 @@ EC2 Instance
 
 • Validated Infrastructure as Code deployment through Terraform plan and apply workflows.
 
-## Terraform Commands
-
-```bash
-terraform init
-terraform validate
-terraform plan
-terraform apply
-terraform state list
-terraform destroy
