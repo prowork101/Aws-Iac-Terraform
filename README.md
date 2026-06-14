@@ -15,14 +15,26 @@ aws-iac-terraform/
 ```
 
 ## Technologies Used
+## Architecture
 
-- AWS
-- Terraform
-- EC2
-- VPC
-- Security Groups
-- Internet Gateway
-- Route Tables
+```text
+Internet
+   │
+   ▼
+Internet Gateway
+   │
+   ▼
+Route Table
+   │
+   ▼
+Public Subnet
+   │
+   ▼
+EC2 Instance
+   │
+   ▼
+Security Group
+```
 
 ## Architecture
 
