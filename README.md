@@ -69,3 +69,14 @@ EC2 Instance
 • Configured security controls using AWS Security Groups.
 
 • Validated Infrastructure as Code deployment through Terraform plan and apply workflows.
+
+
+## Terraform Commands
+
+```bash
+terraform init
+terraform validate
+terraform plan
+terraform apply
+terraform state list
+terraform destroy
