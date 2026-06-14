@@ -61,7 +61,7 @@ terraform plan
 terraform apply
 terraform state list
 terraform destroy
-
+```
 ## Step 1: Create Project Folder
 Created a local project folder to store Terraform files.
 
