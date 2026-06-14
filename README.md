@@ -71,6 +71,7 @@ EC2 Instance
 • Validated Infrastructure as Code deployment through Terraform plan and apply workflows.
 
 
+''''markdown
 ## Terraform Commands
 
 ```bash
