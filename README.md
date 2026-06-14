@@ -5,7 +5,7 @@ This project provisions AWS infrastructure using Terraform. It creates a VPC, pu
 
 
 ## Project Structure
-
+'''text
 aws-iac-terraform/
 │
 ├── main.tf
@@ -16,7 +16,7 @@ aws-iac-terraform/
 │
 └── docs/
     └── architecture.md
-
+'''
 ## Step 1: Create Project Folder
 Created a local project folder to store Terraform files.
 
