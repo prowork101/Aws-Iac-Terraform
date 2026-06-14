@@ -3,6 +3,7 @@
 ## Overview
 This project provisions AWS infrastructure using Terraform. It creates a VPC, public subnet, Internet Gateway, route table, security group, and EC2 instance.
 
+
 ## Project Structure
 
 aws-iac-terraform/
