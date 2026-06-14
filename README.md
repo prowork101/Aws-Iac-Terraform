@@ -57,9 +57,6 @@ Public Subnet
     │
     ▼
 EC2 Instance
-    │
-    ▼
-Security Group
 
 ## Project Outcome
 
